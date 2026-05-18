@@ -49,7 +49,7 @@ Criado o Dashboard para responder as questões abaixos:
 O Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, por segmento e por país.
 
 ### 1.1. Dashboard Analítico de Vendas Globais
-![Lab_1]()
+![Lab_1](assets/images/1.png)
 
 ## 🎯 Objetivos
 - Aprender a conectar e transformar dados com Power Query;
@@ -71,7 +71,7 @@ O Dashboard deve responder às seguintes perguntas de negócio e seguir as segui
 - Pergunta 5 - Qual foi o comportamento da margem de lucro ao longo do tempo? Considere a margem de lucro como o Lucro dividido pelo Valor Venda.
 
 ### 2.1. Dashboard de Vendas, Custo, Margem de Lucro e KPI
-![Lab_2]()
+![Lab_2](assets/images/2.png)
 
 ## 🎯 Objetivos
 - Conceitos de modelagem de dados;
@@ -95,16 +95,16 @@ Neste Mini-Projeto os relatórios foram divididos em 4 visões:
 Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, extraídas métricas e cruzados os dados, visando entregar aos tomadores de decisão uma visão bastante completa sobre o perfil dos clientes, os padrões de compra e a efetividade das campanhas de Marketing.
 
 ### 3.1. Dashboard - Visão do Cliente
-![MP_1-1]()
+![MP_1-1](assets/images/3.1.png)
 
 ### 3.2. Dashboard - Visão do Comportamento de Compra do Cliente
-![MP_1-2]()
+![MP_1-2](assets/images/3.2.png)
 
 ### 3.3. Dashboard - Visão da Performance das Campanhas de Marketing
-![MP_1-3]()
+![MP_1-3](assets/images/3.3.png)
 
 ### 3.4. Dashboard - Visão dos Padrões de Compra no Ponto de Venda (País)
-![MP_1-4]()
+![MP_1-4](assets/images/3.4.png)
 
 #### [Voltar ao início](#Projetos)
 
