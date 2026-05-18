@@ -14,6 +14,8 @@ Aqui você encontrará dashboards, exercícios práticos e anotações que refle
 - Construir um portfólio sólido para transição de carreira
 
 ## 📊 Projetos e mini projetos Desenvolvidos
+#### Projetos
+
 ### Parte 1: Business Intelligence
 #### [1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais](#1-laboratório-prático-1---dashboard-analítico-de-vendas-globais-1)
 #### [2. Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI](#2-laboratório-prático-2---dashboard-de-vendas-custo-margem-de-lucro-e-kpi-1)
@@ -56,7 +58,7 @@ O Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, po
 - Desenvolver dashboards interativos e analíticos
 - Construir um portfólio sólido para transição de carreira
 
-#### [Voltar ao início](## 📊 Projetos e mini projetos Desenvolvidos)
+#### [Voltar ao início](#Projetos)
 
 ## 2. Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
 Foram utilizados dados de vendas fictícios obtidos em 4 diferentes tabelas: Clientes, Pedidos, Produtos e Vendas.
@@ -79,7 +81,7 @@ O Dashboard deve responder às seguintes perguntas de negócio e seguir as segui
 - Criação de gráficos interativos e analíticos.
 - Introdução ao DAX.
 
-#### [Voltar ao início](## 📊 Projetos e mini projetos Desenvolvidos)
+#### [Voltar ao início](#Projetos)
 
 ## 3. Mini-Projeto 1 - Análise de Campanhas de Marketing
 Este Mini-Projeto trouxe uma breve introdução à análise de campanhas de Marketing com o Power BI. Foram gerados 4 Dashboards, mais de 10 elementos visuais, customizações, formatações, correções nos dados e utilização de diferentes recursos do Power BI. Os dados foram previamente customizados para este Mini-Projeto e representam informações sobre clientes e campanhas de Marketing realizadas por uma empresa fictícia.
@@ -104,7 +106,7 @@ Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, 
 ### 3.4. Dashboard - Visão dos Padrões de Compra no Ponto de Venda (País)
 ![MP_1-4]()
 
-#### [Voltar ao início](## 📊 Projetos e mini projetos Desenvolvidos)
+#### [Voltar ao início](#Projetos)
 
 
 
