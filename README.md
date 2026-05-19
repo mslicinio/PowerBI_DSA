@@ -108,6 +108,30 @@ Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, 
 
 #### [Voltar ao início](#Projetos)
 
+## 4. Mini-Projeto 2 - Análise de Dados Comerciais: Performance de Vendas
+Neste Mini-Projeto foi desenvolvido uma analise de performance de vendas, ajudando o time comercial de uma empresa fictícia.
+
+Aprendi a trabalhar com a Narrativa Inteligente, Principais Influenciadores, Gráfico de Faixas e criação de menu para índice do Dashboard.
+
+### 4.0. Menu para Navegador de Página
+![lab4_0](assets/images/4.0.png)
+
+### 4.1. Dashboard - Narrativa Inteligente
+![lab4_1](assets/images/4.1.png)
+
+### 4.2. Dashboard - Principais Influenciadores de Vendas
+![lab4_2](assets/images/4.2.png)
+
+### 4.3. Dashboard - Total de venda Por Categoria e Ponto de Venda
+![lab4_3](assets/images/4.3.png))
+
+### 4.4. Dashboard - Performance dos Vendedores por Região
+![lab4_4](assets/images/4.4.png)
+
+#### [Voltar ao início](#Projetos)
+
+
+
 
 
 
