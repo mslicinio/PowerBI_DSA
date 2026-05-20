@@ -130,6 +130,43 @@ Aprendi a trabalhar com a Narrativa Inteligente, Principais Influenciadores, Gr�
 
 #### [Voltar ao início](#Projetos)
 
+## 5. Mini-Projeto 3 - Análise de Dados de Recursos Humanos
+Este Mini-Projeto trouxe uma breve introdução à análise de dados de RH (Recursos Humanos) com o Power BI, onde foram utilizados dados fictícios. Durante o projeto foram trabalhados alguns outros recursos e funcionalidades do Power BI, como tabela de medidas e coluna condicional. 
+
+O Dashboard criado respondeu às seguintes perguntas de negócio:
+- Qual o total de funcionários atualmente na empresa?
+- Qual o tempo médio de experiência dos funcionários (em anos)?
+- Qual o total e percentual de funcionários do gênero masculino e feminino?
+- Qual a média salarial mensal?
+- Qual o total de funcionários por função?
+- Qual o percentual de funcionários disponíveis para fazer hora extra?
+- Qual o nível de envolvimento dos funcionários no trabalho considerando 4 categorias: Ruim, Baixo, Médio e Alto?
+- Este item não deve estar no Dashboard, mas precisa ser calculado: Qual o total e o percentual de funcionários que devem receber promoção? Considerando a coluna “Anos Desde a última Promoção” com a seguinte regra: Se o funcionário tiver 5 anos ou mais desde a última promoção, deve ter a promoção considerada. Caso contrário, a promoção não deve ser considerada agora.
+
+### 5.1. Dashboard - Análise de Dados de Recursos Humanos
+![lab5](assets/images/5.png)
+
+#### [Voltar ao início](#Projetos)
+
+## 6. Mini-Projeto 4 - Análise de Dados de Logística
+Este Mini-Projeto apresentou o seguinte estudo de caso com dados fictícios: Uma empresa de logística solicitou que um profissional fornecesse um dashboard para compreender como está o processo de entrega de produtos da empresa. O profissional não parecia ter muito conhecimento sobre Power BI e entregou um trabalho com nítidos problemas e erros. Os diretores da empresa pediram minha ajuda para revisar o dashboard, identificar e corrigir erros e problemas e apresentar uma nova versão. Todos os erros e problemas detectados devem ser justificados.
+
+O Dashboard precisaria mostrar os seguintes KPIs de Logística:
+- Total de Entregas no Prazo Por Canal de Entrega
+- Percentual de Entregas Antecipadas Por Equipe de Entrega
+- Total de Entregas Por Mês
+- Total de Entregas de Produtos dos Top 5 Vendedores
+- Total de Entregas com Atraso Por Cidade
+- Percentual de Entregas Por Status de Entrega
+
+Durante o projeto foram trabalhados alguns outros recursos e funcionalidades do Power BI, como classificação de rating e filtro com medida DAX. 
+
+### 6.1. Dashboard - Análise de Dados de Logística
+![lab6](assets/images/6.png)
+
+#### [Voltar ao início](#Projetos)
+
+
 
 
 
