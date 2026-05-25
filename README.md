@@ -166,6 +166,26 @@ Durante o projeto foram trabalhados alguns outros recursos e funcionalidades do 
 
 #### [Voltar ao início](#Projetos)
 
+## 7. Mini-Projeto 5 - Análise de Dados Financeiros
+Neste Mini-Projeto foram exploradas mais algumas funcionalidades do Power BI, agora no contexto da área de finanças. Foram utilizados dados fictícios, que continham problemas de layout colocados propositalmente e que foram então resolvidos, utilizando algumas funcionalidades inclusive o pivot de tabela.
+
+Estudo de caso: Sua empresa deseja ter uma visão das receitas e despesas e solicitou que você criasse um Dashboard que permita analisar os seguintes indicadores financeiros:
+- Total de Receitas
+- Total de Despesas
+- Margem de Lucro
+- Total de Receitas Por Componente
+- Total de Despesas Por Componente em relação à média de Despesas
+- Total  de  Receitas e  Despesas Por  Componente  e  Por  Ano, com  a  hierarquia Tipo/Componente.
+
+Além disso a empresa precisa identificar os segmentos onde Receitas e Despesas são maiores e menores a fim de traçar seu plano estratégico. Seu trabalho é converter os dados brutos em conhecimento para suportar a tomada de decisões, através da análise de dados.
+
+### 7.1. Dashboard - Análise de Dados Financeiros
+![lab6](assets/images/7.png)
+
+#### [Voltar ao início](#Projetos)
+
+
+
 
 
 
