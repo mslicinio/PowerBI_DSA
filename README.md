@@ -180,10 +180,17 @@ Estudo de caso: Sua empresa deseja ter uma visão das receitas e despesas e soli
 Além disso a empresa precisa identificar os segmentos onde Receitas e Despesas são maiores e menores a fim de traçar seu plano estratégico. Seu trabalho é converter os dados brutos em conhecimento para suportar a tomada de decisões, através da análise de dados.
 
 ### 7.1. Dashboard - Análise de Dados Financeiros
-![lab6](assets/images/7.png)
+![lab7](assets/images/7.png)
 
 #### [Voltar ao início](#Projetos)
 
+## 8. Laboratório Prático 3 - Análise de Dados Contábeis: Balanço Patrimonial
+Neste  laboratório foi construído um importante relatório contábil no Power BI, o Balanço Patrimonial. Utilizando dados fictícios, foram exploradas as funcionalidades do visual de Matriz, e estudadas em detalhes outras diversas funcionalidades do Power BI.
+
+### 8.1. Dashboard - Balanço Patrimonial
+![lab8](assets/images/8.png)
+
+#### [Voltar ao início](#Projetos)
 
 
 
