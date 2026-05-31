@@ -192,6 +192,21 @@ Neste  laboratório foi construído um importante relatório contábil no Power 
 
 #### [Voltar ao início](#Projetos)
 
+## 9. Mini-Projeto 6 - Análise de Dados do Mercado de Ações
+Neste Mini-Projeto foi construído um Dashboard Analítico do Mercado de Ações. Duas funcionalidades do Power BI foram exploradas: a Narrativa Inteligente e a Time Intelligence (manipulação de data). Foram utilizados dados reais, disponíveis publicamente, extraídos do portal da NASDAQ ([link](https://www.nasdaq.com/market-activity/stocks)). Os dados da NASDAQ incluem várias colunas, cada uma fornecendo informações específicas sobre o preço e o volume de negociação das ações negociadas no mercado. Foram escolhidos dados de 5 empresas: IBM, Microsoft, Oracle, Tesla e Walmart.
+
+O Dashboard deverá responder às seguintes perguntas de negócio e seguir as seguintes especificações:
+- Qual o total de volume negociado de ações ao longo do tempo para as 5 empresas que estão sendo analisadas? Permita que essa análise seja feita para uma única empresa ou combinação de empresas.
+- Qual o valor médio de abertura (Open), mais alto (High), mais baixo (Low) e de fechamento (Close) das ações de todas as empresas para todos os meses do período de  dados  analisado  (1 ano em nosso exemplo)? Mostre no formato de tabela e permita que essa análise seja feita para uma única empresa ou combinação de empresas.
+- Qual a variação da média do valor de fechamento (close) das ações de todas as empresas ao longo do tempo, mês a mês? Permita que essa análise seja feita para uma única empresa ou combinação de empresas.
+- Use a Narrativa Inteligente para explicar as principais características e tendências nos dados.
+- O Dashboard deve ser formatado.
+
+### 9.1. Dashboard - Análise de Dados do Mercado de Ações
+![lab8](assets/images/9.png)
+
+#### [Voltar ao início](#Projetos)
+
 
 
 
