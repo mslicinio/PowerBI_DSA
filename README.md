@@ -347,6 +347,32 @@ Para escrever e executar o Python, foi utilizado dento do VSCODE e foram emprega
 
 #### [Voltar ao Sumário](#parte-2-data-science)
 
+## 14. Laboratório Prático 8 - Detecção de Anomalias em Transações Financeiras com Linguagem R e Power BI
+Este laboratório prático apresentou o seguinte estudo de caso com dados fictícios: Imagine que uma empresa da área financeira tenha dados históricos de clientes com duas transações financeiras (aqui chamadas de “transacao1” e “transacao2”). Os gestores acreditam que algumas dessas transações possam ser fraudulentas e gostariam de identificar as eventuais anomalias. Os gestores não fazem ideia do que seria uma anomalia e pediram sua ajuda para encontrar uma solução. De fato, eles não sabem se anomalias realmente ocorreram. Seu trabalho é usar Machine Learning para agrupar os dados de transações financeiras dos clientes e então detectar e definir as anomalias (se existirem). O resultado deve ser entregue no formato visual através de gráficos no Power BI.
+
+Para este laboratório foi utilizado o RStudio e foram executadas as seguintes etapas:
+
+## <img src="assets\images\alvo.png" width="30px"> Objetivos
+
+1. Instalação e carregamento dos pacotes para detecção de anomalias, manipulação e visualização de dados
+2. Carregamento dos dados
+3. Criação e treinamento do modelo de Machine Learning
+4. Previsões com o modelo usando os dados históricos
+5. Definição das anomalias de acordo com o *anomaly score*
+6. Aplicação do modelo de detecção de anomalias a novos dados
+7. Análise das anomalias com boxplot em linguagem R
+8. Análise das anomalias com boxplot no Power BI
+
+Obs.: Algumas etapas intermediárias de preparação dos dados, como a análises exploratórias, limpezas e checagens, não foram realizadas pois os dados fictícios já foram previamente corrigidos e formatados.
+
+### 14.1. Boxplot de Dados Anômalos e Dados Normais
+![lab_13.1](assets/prints/13.1.png)
+
+### 14.2. Dashboard - Detecção de Anomalias em Transações Financeiras
+![Lab_13](assets/prints/13.png)
+
+
+#### [Voltar ao Sumário](#parte-2-data-science)
 
 ## 🔗 Links
 - [Meu LinkedIn](https://www.linkedin.com/in/licinio-gti/)
