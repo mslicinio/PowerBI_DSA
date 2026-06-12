@@ -371,6 +371,20 @@ Obs.: Algumas etapas intermediárias de preparação dos dados, como a análises
 ### 14.2. Dashboard - Detecção de Anomalias em Transações Financeiras
 ![Lab_13](assets/prints/13.png)
 
+#### [Voltar ao Sumário](#parte-2-data-science)
+
+## 15. Laboratório Prático 9 - Engenharia de Producão com Power BI e IA: Prevendo a Produção Industrial ao Longo do Tempo
+Neste laboratório o Power BI foi usado para manipular e compreender os dados, explorando alguns conceitos de análise de séries temporais utilizando dados fictícios. Por fim, foram apresentados recursos de IA do Power BI para prever a média de unidades produzidas ao longo do tempo e detecção de anomalias. O Dashboard criado ao final do laboratório serve como ponto de partida para o dia a dia de Engenheiros de Produção.
+
+## <img src="assets\images\alvo.png" width="30px"> Objetivos
+
+- Manipular e compreender dados fictícios de produção.
+- Explorar recursos de Inteligência Artificial do Power BI para prever a média de unidades produzidas ao longo do tempo.
+- Implementar técnicas de detecção de anomalias em séries temporais.
+- Criar um dashboard interativo que sirva como ponto de partida para engenheiros de produção no acompanhamento e tomada de decisão.
+
+### 15.1 Dashboard - Produção Industrial ao Longo do Tempo
+![Lab_14](assets/prints/14.png)
 
 #### [Voltar ao Sumário](#parte-2-data-science)
 
