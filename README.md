@@ -1,30 +1,30 @@
 <div align="center">
 
-### **Curso de Microsoft Power BI  ara Business Intelligence e Data Science**
+### **Curso de Microsoft Power BI para Business Intelligence e Data Science**
 ### Data Science Academy  
-<img src="assets\images\bi.webp" width="65px">
+<img src="assets/images/bi.webp" width="65px">
 
 </div>
 
 <div align="justify">
 
-## <img src="assets\images\check.png" width="35px"> Sobre
+## <img src="assets/images/check.png" width="35px"> Sobre
 Este repositório reúne meus estudos e projetos práticos em **Power BI**, aplicando conceitos de Business Intelligence e Data Science para transformar dados em insights.
 
-## <img src="assets\images\alvo.png" width="35px"> Objetivos
+## <img src="assets/images/alvo.png" width="35px"> Objetivos
 - Criar dashboards interativos e visuais claros para apoiar decisões.  
 - Aplicar **DAX** e **Power Query** para manipulação e modelagem de dados.  
 - Integrar dados de diferentes fontes (Excel, SQL, APIs).  
 - Demonstrar evolução contínua no uso da ferramenta. 
 
-## <img src="assets\images\gestao.webp" width="35px"> Estrutura do Repositório
+## <img src="assets/images/gestao.webp" width="35px"> Estrutura do Repositório
 - `/dashboards` → arquivos `.pbix` com dashboards prontos.  
 - `/datasets` → bases de dados utilizadas nos projetos.  
 - `/scripts` → consultas SQL ou transformações auxiliares. 
-- `/prints` → arquivos .png dos dashboards
+- `/assets/prints` → arquivos .png dos dashboards
 - `README.md` → explicação geral e links para cada projeto.
 
-## <img src="assets\images\tecnologia.png" width="45px"> Tecnologias utilizadas
+## <img src="assets/images/tecnologia.png" width="45px"> Tecnologias utilizadas
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black) 
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?logo=microsoft-excel&logoColor=white) 
 ![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-yellow) 
@@ -32,7 +32,7 @@ Este repositório reúne meus estudos e projetos práticos em **Power BI**, apli
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
 
-## <img src="assets\images\livros.webp" width="40px"> Projetos e mini projetos Desenvolvidos
+## <img src="assets/images/livros.webp" width="40px"> Projetos e mini projetos Desenvolvidos
 
 ### Parte 1: Business Intelligence
 #### [1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais](#1-laboratório-prático-1---dashboard-analítico-de-vendas-globais-1)
@@ -51,11 +51,11 @@ Este repositório reúne meus estudos e projetos práticos em **Power BI**, apli
 #### [12. Laboratório Prático 6 - Integrando Banco de Dados com Power BI para Extração e Análise de Dados](#12-laboratório-prático-6---integrando-banco-de-dados-com-power-bi-para-extração-e-análise-de-dados-1)
 #### [13. Laboratório Prático 7 - Machine Learning com Linguagem Python e Power BI dentro do Jupyter Notebook](#13-laboratório-prático-7---machine-learning-com-linguagem-python-e-power-bi-dentro-do-jupyter-notebook-1)
 #### [14. Laboratório Prático 8 - Detecção de Anomalias em Transações Financeiras com Linguagem R e Power BI](#14-laboratório-prático-8---detecção-de-anomalias-em-transações-financeiras-com-linguagem-r-e-power-bi-1)
-#### [15. Laboratório Prático 9 - Engenharia de Producão com Power BI e IA: Prevendo a Produção Industrial ao Longo do Tempo](#15-laboratório-prático-9---engenharia-de-producão-com-power-bi-e-ia-prevendo-a-produção-industrial-ao-longo-do-tempo-1)
+#### [15. Laboratório Prático 9 - Engenharia de Produção com Power BI e IA: Prevendo a Produção Industrial ao Longo do Tempo](#15-laboratório-prático-9---engenharia-de-producão-com-power-bi-e-ia-prevendo-a-produção-industrial-ao-longo-do-tempo-1)
 
 ## 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 
-## <img src="assets\images\alvo.png" width="30px"> Objetivos
+## <img src="assets/images/alvo.png" width="30px"> Objetivos
 - Aprender a conectar e transformar dados com Power Query;
 - integrando o Power BI com Linguagem R e Python.
 - Criar medidas e indicadores usando DAX
@@ -80,12 +80,9 @@ O Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, po
 
 #### [Voltar ao Sumário](#parte-2-data-science)
 
-
-(#parte-2-data-science)
-
 ## 2. Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
 
-## <img src="assets\images\alvo.png" width="30px"> Objetivos
+## <img src="assets/images/alvo.png" width="30px"> Objetivos
 - Conceitos de modelagem de dados;
 - Cardinalidade;
 - Transformação com Power Query;
@@ -110,7 +107,7 @@ O Dashboard deve responder às seguintes perguntas de negócio e seguir as segui
 
 ## 3. Mini-Projeto 1 - Análise de Campanhas de Marketing
 
-## <img src="assets\images\alvo.png" width="30px"> Objetivos
+## <img src="assets/images/alvo.png" width="30px"> Objetivos
 - Explorar dados de clientes e campanhas de marketing.
 - Criar múltiplas visões (cliente, comportamento, performance, padrões de compra).
 - Aplicar métricas e cruzamento de dados para avaliar efetividade das campanhas.
@@ -142,7 +139,7 @@ Para cada visão foram compreendidas as variáveis, criados gráficos, medidas, 
 
 ## 4. Mini-Projeto 2 - Análise de Dados Comerciais: Performance de Vendas
 
-## <img src="assets\images\alvo.png" width="30px"> Objetivos
+## <img src="assets/images/alvo.png" width="30px"> Objetivos
 - Analisar performance comercial com recursos avançados do Power BI.
 - Utilizar Narrativa Inteligente e Principais Influenciadores.
 - Criar gráficos de faixas e menus de navegação.
@@ -162,7 +159,7 @@ Aprendi a trabalhar com a Narrativa Inteligente, Principais Influenciadores, Gr�
 ![lab4_2](assets/prints/4.2.png)
 
 ### 4.3. Dashboard - Total de venda Por Categoria e Ponto de Venda
-![lab4_3](assets/prints/4.3.png))
+![lab4_3](assets/prints/4.3.png)
 
 ### 4.4. Dashboard - Performance dos Vendedores por Região
 ![lab4_4](assets/prints/4.4.png)
@@ -171,7 +168,7 @@ Aprendi a trabalhar com a Narrativa Inteligente, Principais Influenciadores, Gr�
 
 ## 5. Mini-Projeto 3 - Análise de Dados de Recursos Humanos
 
-## <img src="assets\images\alvo.png" width="30px"> Objetivos
+## <img src="assets/images/alvo.png" width="30px"> Objetivos
 - Explorar dados de RH para entender perfil e engajamento dos funcionários.
 - Calcular métricas como tempo médio de experiência, salários e promoções.
 - Criar dashboards com indicadores de diversidade e envolvimento.
@@ -196,7 +193,7 @@ O Dashboard criado respondeu às seguintes perguntas de negócio:
 
 ## 6. Mini-Projeto 4 - Análise de Dados de Logística
 
-## <img src="assets\images\alvo.png" width="30px"> Objetivos
+## <img src="assets/images/alvo.png" width="30px"> Objetivos
 - Revisar e corrigir dashboards com problemas de modelagem.
 - Criar KPIs de entregas (prazo, atraso, antecipadas).
 - Aplicar medidas DAX e filtros avançados.
@@ -221,7 +218,7 @@ Durante o projeto foram trabalhados alguns outros recursos e funcionalidades do 
 
 ## 7. Mini-Projeto 5 - Análise de Dados Financeiros
 
-## <img src="assets\images\alvo.png" width="30px"> Objetivos
+## <img src="assets/images/alvo.png" width="30px"> Objetivos
 - Analisar receitas, despesas e margem de lucro.
 - Resolver problemas de layout e pivot de tabelas.
 - Criar hierarquias e comparações por componente e ano.
@@ -246,7 +243,7 @@ Além disso a empresa precisa identificar os segmentos onde Receitas e Despesas 
 
 ## 8. Laboratório Prático 3 - Análise de Dados Contábeis: Balanço Patrimonial
 
-## <img src="assets\images\alvo.png" width="30px"> Objetivos
+## <img src="assets/images/alvo.png" width="30px"> Objetivos
 - Construir relatório contábil no Power BI.
 - Explorar visual de matriz e hierarquias.
 - Aplicar boas práticas de formatação e análise contábil.
@@ -261,7 +258,7 @@ Neste  laboratório foi construído um importante relatório contábil no Power 
 
 ## 9. Mini-Projeto 6 - Análise de Dados do Mercado de Ações
 
-## <img src="assets\images\alvo.png" width="30px"> Objetivos
+## <img src="assets/images/alvo.png" width="30px"> Objetivos
 - Analisar dados reais da NASDAQ (IBM, Microsoft, Oracle, Tesla, Walmart).
 - Criar dashboards com volume negociado, preços médios e variações.
 - Utilizar Narrativa Inteligente e Time Intelligence.
@@ -282,7 +279,7 @@ O Dashboard deverá responder às seguintes perguntas de negócio e seguir as se
 #### [Voltar ao Sumário](#parte-1-business-intelligence)
 
 ## 10. Laboratório Prático 4 - Limpeza e Manipulação de Dados de Cadastro de Clientes
-## <img src="assets\images\alvo.png" width="30px"> Objetivos
+## <img src="assets/images/alvo.png" width="30px"> Objetivos
 - Aplicar técnicas de limpeza e transformação de dados de clientes.
 - Usar Power Query para manipulação eficiente.
 - Preparar dados para análises avançadas.
@@ -301,7 +298,7 @@ Este laboratório prático foi focado na limpeza e manipulação de dados com Po
 ## 11. Laboratório Prático 5 - Engenharia de Atributos com Linguagem M
 Neste Laboratório foi demonstrado como a Linguagem M pode ser usada no Power BI para realizar uma das mais importantes tarefas em Ciência de Dados: a Engenharia de Atributos. Utilizando dados fictícios, foram aplicadas diversas tarefas e etapas como criação de novas variáveis, remoção de variáveis desnecessárias, transformações e correções.
 
-## <img src="assets\images\alvo.png" width="30px"> Objetivos
+## <img src="assets/images/alvo.png" width="30px"> Objetivos
 - Limpar  e  transformar  dados  (como  remover  linhas,  colunas  ou  preencher  valores ausentes);
 - Combinar dados de diferentes fontes (como mesclar ou anexar consultas);
 - Converter  tipos  de  dados  e  formatar  dados (como  converter  texto  para  número  ou data).•Aplicar transformações condicionais e agregar dados.
@@ -311,7 +308,7 @@ Neste Laboratório foi demonstrado como a Linguagem M pode ser usada no Power BI
 ## 12. Laboratório Prático 6 - Integrando Banco de Dados com Power BI para Extração e Análise de Dados 
 Neste laboratório foi demonstrado como conectar o Power BI a bancos de dados para extrair dados e criar análises, através de uma conexão ODBC (Open Database Connectivity). Utilizados dados fictícios e o banco de dados SQLite.
 
-## <img src="assets\images\alvo.png" width="30px"> Objetivos
+## <img src="assets/images/alvo.png" width="30px"> Objetivos
 
 - Aplicar técnicas de limpeza e transformação de dados de clientes.
 - Usar Power Query para manipulação eficiente.
@@ -326,7 +323,7 @@ Neste laboratório foi demonstrado como conectar o Power BI a bancos de dados pa
 ## 13. Laboratório Prático 7 - Machine Learning com Linguagem Python e Power BI dentro do Jupyter Notebook
 Este laboratório prático apresentou o seguinte estudo de caso com dados fictícios: Imagine que uma empresa tenha dados históricos de clientes que fizeram compras de produtos ou serviços. Os dados incluem, para cada cliente: idade, renda anual e uma pontuação de gasto (poder de compra do cliente). A empresa gostaria de segmentar esses clientes em 3 grupos de acordo com similaridades a fim de personalizar as campanhas de Marketing. O gestor da área de Marketing espera receber um relatório com os 3 segmentos e para cada segmento a média de idade, renda anual e pontuação de gastos dos clientes. Seu trabalho é fazer isso acontecer utilizando Machine Learning.
 
-## <img src="assets\images\alvo.png" width="30px"> Objetivos
+## <img src="assets/images/alvo.png" width="30px"> Objetivos
 - Utilizar Python para treinar e avaliar modelos de Machine Learning.
 - Trabalhar dentro do Jupyter Notebook, ambiente ideal para experimentação e documentação de código.
 - Conectar os resultados ao Power BI, permitindo que previsões e classificações sejam incorporadas em dashboards interativos.
@@ -352,7 +349,7 @@ Este laboratório prático apresentou o seguinte estudo de caso com dados fictí
 
 Para este laboratório foi utilizado o RStudio e foram executadas as seguintes etapas:
 
-## <img src="assets\images\alvo.png" width="30px"> Objetivos
+## <img src="assets/images/alvo.png" width="30px"> Objetivos
 
 1. Instalação e carregamento dos pacotes para detecção de anomalias, manipulação e visualização de dados
 2. Carregamento dos dados
@@ -373,10 +370,10 @@ Obs.: Algumas etapas intermediárias de preparação dos dados, como a análises
 
 #### [Voltar ao Sumário](#parte-2-data-science)
 
-## 15. Laboratório Prático 9 - Engenharia de Producão com Power BI e IA: Prevendo a Produção Industrial ao Longo do Tempo
+## 15. Laboratório Prático 9 - Engenharia de Produção com Power BI e IA: Prevendo a Produção Industrial ao Longo do Tempo
 Neste laboratório o Power BI foi usado para manipular e compreender os dados, explorando alguns conceitos de análise de séries temporais utilizando dados fictícios. Por fim, foram apresentados recursos de IA do Power BI para prever a média de unidades produzidas ao longo do tempo e detecção de anomalias. O Dashboard criado ao final do laboratório serve como ponto de partida para o dia a dia de Engenheiros de Produção.
 
-## <img src="assets\images\alvo.png" width="30px"> Objetivos
+## <img src="assets/images/alvo.png" width="30px"> Objetivos
 
 - Manipular e compreender dados fictícios de produção.
 - Explorar recursos de Inteligência Artificial do Power BI para prever a média de unidades produzidas ao longo do tempo.
